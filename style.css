@@ -551,7 +551,8 @@ body {
 
 @media (max-width: 500px) {
   .image-about {
-    width: 100%;
+    width: 150%;
+    margin-left: -50px;
   }
   .container-images {
     width: 100%;
@@ -572,6 +573,13 @@ body {
   }
   .container-box {
     width: 75%;
+  }
+  .title-about {
+    margin-top: 20px;
+    text-shadow: 4px 4px 4px rgba(34, 34, 34, 0.2);
+    font-weight: lighter;
+    font-size: 20px;
+    text-align: center;
   }
   .container-text h2 {
     font-size: 45px;
