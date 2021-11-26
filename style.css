@@ -140,8 +140,8 @@ body {
 
 .image-about {
   display: block;
-  width: 62%;
-  max-width: 250px;
+  width: 100%;
+  max-width: 500px;
   border-radius: 0px;
   margin: 30px auto;
   margin-top: 30px;
@@ -548,7 +548,7 @@ body {
 
 @media (max-width: 500px) {
   .image-about {
-    width: 40%;
+    width: 100%;
   }
   .container-images {
     width: 100%;
@@ -730,7 +730,7 @@ body {
     font-size: 35px;
   }
   .image-about {
-    width: 55%;
+    width: 100%;
   }
   .introduce {
     font-size: 17px;
